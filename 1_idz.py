@@ -13,5 +13,6 @@ if __name__ == '__main__':
         if i > 0:
             o *= i
         else:
-            continue;
+            continue
+  
     print("Произведение положительных чисел: ", o)
