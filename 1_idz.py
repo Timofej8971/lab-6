@@ -12,7 +12,5 @@ if __name__ == '__main__':
     for i in a:
         if i > 0:
             o *= i
-        else:
-            continue
   
     print("Произведение положительных чисел: ", o)
